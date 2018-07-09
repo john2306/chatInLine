@@ -1,10 +1,10 @@
-#Demo:
+# Demo:
 El aplicativo de desplego en Heroku, lo cual es muy sencillo ejecutando:
 ```
 https://xchati.herokuapp.com
 ```
 
-#Uso:
+# Uso:
 Primero deben descargar el zip o clonar el arvhivo de Github
 ```
 git clone https://github.com/john2306/chatInLine.git
