@@ -20,7 +20,7 @@ npm install
 ```
 Finalmente corre el servidor el servidor.
 ```
-npm star
+npm start
 ```
 Les aparece servidor corriendo en el puerto 3000 (http://localhost:3000)
 
