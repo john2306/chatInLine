@@ -5,24 +5,24 @@ https://xchati.herokuapp.com
 
 
 # Uso:
-Primero deben descargar el zip o clonar el arvhivo de Github
+Primero deben descargar el zip o clonar el archivo de Github.
 ```
 git clone https://github.com/john2306/chatInLine.git
 ```
-Luego deben ubicarse en la carpeta que han descargado 
+Luego deben ubicarse en la carpeta que han descargado o clonado.
 ```
 cd chatInLine
 ```
-Lo primero que deben hacer es reconstruir los módulos de node con el comando:
+Ahora, lo primero que deben hacer es reconstruir los módulos de node con el comando:
 
 ```
 npm install
 ```
-Finalmente corremos el servidor con:
+Finalmente corremos el servidor localhost con:
 ```
 npm start
 ```
-Les aparece servidor corriendo en el puerto 3000 (http://localhost:3000)
+Les debe aparece servidor corriendo en el puerto 3000 (http://localhost:3000)
 
 Este aplicativo aún se puede mejorar, personalizar y añadir una base de datos
 como Mondodb o Firebase para autentificación con Facebook, Twitter o Google y guardar
