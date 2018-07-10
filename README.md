@@ -1,5 +1,5 @@
 # Demo:
-El aplicativo de desplego en Heroku, lo cual es muy sencillo ejecutando:
+El aplicativo de desplego en Heroku, lo cual pueden comprobar el funcionamiento y chatear con sus amigos poniendo la misma sala.
 
 https://xchati.herokuapp.com
 
